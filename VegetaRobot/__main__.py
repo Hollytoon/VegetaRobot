@@ -118,8 +118,7 @@ Below Click the module you know about module commands!*
 HELP_MSG = "Click the button below to get help manu in your pm."
 DONATE_STRING = """*don't need donate I'm free for everyone add your group's in @VegetaRobot this is my donate🙂*"""
 HELP_IMG= "https://telegra.ph/file/9d2c6e3b28afe7619856e.jpg"
-GROUPSTART_IMG= "https://telegra.ph/file/1cbafa58dda18528f9e0c.mp4"
-
+GROUPSTART_IMG= "https://telegra.ph/file/19786ef6f3cf0f38c3702.jpg"
 VEGETA_IMG = ( "https://telegra.ph//file/a47f16c936dbbd4165399.jpg",
                "https://telegra.ph//file/5026650d5e3f0b83c6d29.jpg",
                "https://telegra.ph/file/561fa547f3c4940c95ddf.jpg",)       
