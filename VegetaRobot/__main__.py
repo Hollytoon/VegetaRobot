@@ -116,12 +116,12 @@ Below Click the module you know about module commands!*
 """
 
 HELP_MSG = "Click the button below to get help manu in your pm."
-DONATE_STRING = """*don't need donate I'm free for everyone add your group's in @VegetaRobot this is my donate🙂*"""
-HELP_IMG= "https://telegra.ph/file/9d2c6e3b28afe7619856e.jpg"
+DONATE_STRING = """*don't need donate I'm free for everyone add your group's in @VegetaRobot this is my donate🙂bcz i want 1 ruppes plz *"""
+HELP_IMG= "http://telegra.ph/file/da08c4de34f9e191e3786.jpg"
 GROUPSTART_IMG= "https://telegra.ph/file/19786ef6f3cf0f38c3702.jpg"
-VEGETA_IMG = ( "https://telegra.ph//file/a47f16c936dbbd4165399.jpg",
-               "https://telegra.ph//file/5026650d5e3f0b83c6d29.jpg",
-               "https://telegra.ph/file/561fa547f3c4940c95ddf.jpg",)       
+VEGETA_IMG = ( "http://telegra.ph/file/7ad9745fd5650114a1983.jpg",
+               "http://telegra.ph/file/2eab87e248d870c9b043c.jpg",
+               "http://telegra.ph/file/21ca683b1d966a7da8fb2.jpg",)       
 
 IMPORTED = {}
 MIGRATEABLE = []
